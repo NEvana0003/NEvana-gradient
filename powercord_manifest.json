@@ -1,0 +1,9 @@
+{
+    "name": "NEvana_gradient",
+    "description": "animated gradient border",
+    "version": "1.0.0",
+    "author": "NEvana#0003",
+    "theme": "NEvana_gradient.css",
+    "consent": "false",
+    "license": "MIT"
+}
