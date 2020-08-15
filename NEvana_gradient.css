@@ -1,6 +1,6 @@
 body {
   	padding: 2px;
-    background: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+    background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
     background-size: 400% 400%;
     -webkit-animation: gradientAnimation 9s ease infinite;
     -moz-animation: gradientAnimation 9s ease infinite;
@@ -26,4 +26,3 @@ body {
     width: calc(100% - 4px);
     height: calc(100% - 4px);
 }
-
