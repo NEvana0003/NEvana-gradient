@@ -1,7 +1,7 @@
 # NEvana_gradient
 Powercord Theme
 
-animated gradient border
+Animated gradient border, heavily inspired by https://github.com/HooferDevelops/GradientBorder.
 
 To install: 
 1. Go into your themes folder
