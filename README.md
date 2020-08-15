@@ -1,4 +1,4 @@
-# NEvana-gradient
+# NEvana_gradient
 Powercord Theme
 
 animated gradient border
