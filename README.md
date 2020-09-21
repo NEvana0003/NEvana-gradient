@@ -1,4 +1,4 @@
-# NEvana_gradient
+# NEvana-gradient
 Powercord Theme
 
 Animated gradient border, heavily inspired by https://github.com/HooferDevelops/GradientBorder.
